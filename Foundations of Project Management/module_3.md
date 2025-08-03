@@ -198,7 +198,7 @@ Commonly known as DMAIC.
 
 The main principle in Lean methodology is the removal of waste within an operation. By optimization process steps and eliminating waste, only value is added at each phase of production.
 
-Today, the Lean Manufacturing methodology recognizes eight types of waste within an operation: defects, excess processing, overproduction, waiting, inventory, transportation, motion, and non-utilized talent. In the manufacturing industry, these types of waste are often attributed to issues such as:
+Today, the Lean Manufacturing methodology recognizes eight types of waste within an operation: defects, excess processing, overproduction, waiting, inventory, transportation, motion, and non-utilized talent. In the manufacturing industry, these types of waste are often attributed to issues such as the following:
 
 - Lack of proper documentation
 
