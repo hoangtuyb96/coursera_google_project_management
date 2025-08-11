@@ -37,6 +37,8 @@ Key components of project initiation are:
 - Stakeholders
 - Resources
 
+**Note**: Project charter is a tool created in the planning phase, but it's not itself a key component of the initiation phase.
+
 ## The project goals
 
 The goals is what the project is trying to achieve.
